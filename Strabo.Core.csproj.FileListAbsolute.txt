@@ -1,0 +1,54 @@
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.pdb
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.CV.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.Util.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.pdb
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Strabo.Core.exe.config
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Strabo.Core.exe
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Strabo.Core.pdb
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Emgu.CV.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Emgu.Util.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\obj\Debug\Strabo.Core.exe
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\obj\Debug\Strabo.Core.pdb
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\office.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\office.xml
+C:\Users\simakmo\Documents\Sima\CLSL-Backup- 10-10\CLSL-Backup- 10-10\Strabo.Core\bin\Debug\Strabo.Core.exe.config
+C:\Users\simakmo\Documents\Sima\CLSL-Backup- 10-10\CLSL-Backup- 10-10\Strabo.Core\obj\Debug\Strabo.Core.exe
+C:\Users\simakmo\Documents\Sima\CLSL-Backup- 10-10\CLSL-Backup- 10-10\Strabo.Core\obj\Debug\Strabo.Core.pdb
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.exe.config
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.exe
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.exe
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\office.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\bin\Debug\office.xml
+C:\Users\nhonarva\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.csprojResolveAssemblyReference.cache
+C:\SharedData\StraboCLSL(10.24.2014)\Strabo.Core\bin\Debug\Strabo.Core.exe.config
+C:\SharedData\StraboCLSL(10.24.2014)\Strabo.Core\obj\Debug\Strabo.Core.exe
+C:\SharedData\StraboCLSL(10.24.2014)\Strabo.Core\obj\Debug\Strabo.Core.pdb
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.exe.config
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.exe
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Strabo.Core.pdb
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.CV.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Emgu.Util.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\office.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\KMeans.pdb
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\bin\Debug\office.xml
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.csprojResolveAssemblyReference.cache
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.exe
+C:\Users\yaoyichi\Documents\strabo-clsl\Strabo.Core\obj\Debug\Strabo.Core.pdb
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\obj\Debug\Strabo.Core.csprojResolveAssemblyReference.cache
+C:\Users\simakmo\Documents\Visual Studio 2010\Projects\CLSL\Strabo.Core\bin\Debug\KMeans.pdb
